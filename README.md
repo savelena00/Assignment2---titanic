@@ -29,10 +29,10 @@
  * Plotting
 
 ### Objective:
-    * To identify the assiciations between selected variables by conducting an explanatory data analyses on the selected samples using titanic database
+  * To identify the assiciations between selected variables by conducting an explanatory data analyses on the selected samples using titanic database
     
 ### Variables:
-    * Numerical : Age, Survival Rate
-    * Categorical : Passenger Class, Sex 
+  * Numerical : Age, Survival Rate
+  * Categorical : Passenger Class, Sex 
     
 
