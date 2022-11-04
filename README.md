@@ -1,9 +1,9 @@
 # Assignment3---Titanic Dataset 
 
-## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- Titanic database. Within this repository are two different analyses files. 
+## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- Titanic- Machine Learning From Disaster database. Within this repository there are several files.
 
-## Data Source
-  * Data is taken from Kaggle and can be found in [here](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions)
+## Data Source (Data)
+  * Data is taken from Kaggle and can be found in [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
  
 ## Notebook Installation
   1. Download this repository in a zip file by clicking on this [link]() or execute this from the terminal:
