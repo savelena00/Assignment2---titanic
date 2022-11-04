@@ -10,7 +10,6 @@
   
   2. Execute Jupyter Notebook from the terminal (Mac) or Gitbash (Windows)
   3. Click on Assignment 3 part 2 for Titanic Data Analyses
-  4. Click on Assignment 3 part 3 for Housing Price Data Analyses 
 
 ## Dependencies
   * Jupyter Notebook
