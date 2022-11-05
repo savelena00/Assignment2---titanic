@@ -1,15 +1,16 @@
 # Assignment3---Titanic Dataset 
 
-## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- Titanic database. Within this repository are two different analyses files. 
+## This is an Assignment work consisting of basic explanatory data analyses taken from the Kaggle- Titanic- Machine Learning From Disaster database. Within this repository there are several files.
 
-## Data Source
-  * Data is taken from Kaggle and can be found in [here](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions)
+## Data Source (Data)
+  * Data is taken from Kaggle and can be found in [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
  
 ## Notebook Installation
-  1. Download this repository in a zip file by clicking on this [link]() or execute this from the terminal:
+  * Download this repository in a zip file by clicking on this [link](https://github.com/savelena00/Assignment2---titanic) or you can also use the terminal/gitbash by cloning the files into your local:
   
-  2. Execute Jupyter Notebook from the terminal (Mac) or Gitbash (Windows)
-  3. Click on Assignment 3 part 2 for Titanic Data Analyses
+  1. Execute Jupyter Notebook from the terminal (Mac) or Gitbash (Windows)
+  2. Clone the repository with the name Assignment2---titanic. Here is the clone [link](https://github.com/savelena00/Assignment2---titanic.git) 
+  3. Pull the file into your local and you are set
 
 ## Dependencies
   * Jupyter Notebook
