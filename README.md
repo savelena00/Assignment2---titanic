@@ -9,7 +9,7 @@
   * Open this repository by clicking on this [link](https://github.com/savelena00/Assignment2---titanic) or you can also use the terminal/gitbash by cloning the files into your local:
   
   1. Execute Jupyter Notebook from the terminal (Mac) or Gitbash (Windows)
-  2. Clone the repository with the name Assignment2---titanic. Here is the clone [link](https://github.com/savelena00/Assignment2---titanic.git) 
+  2. Clone the repository with the name Assignment2---titanic. Here is the clone https://github.com/savelena00/Assignment2---titanic.git
   3. Pull the file into your local and you are set
 
 ## Dependencies
